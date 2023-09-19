@@ -155,4 +155,13 @@
     height: 2px;
     min-width: 12px;
   }
-  
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f0f0f0; /* Add a background color or customize as needed */
+    text-align: center; /* Center-align the content */
+    padding: 2px; /* Add some padding to the footer content */
+    box-shadow: 0px -1px 5px rgba(0, 0, 0, 0.2); 
+  }
